@@ -9,3 +9,7 @@
 ## Retail sales forecasting 
 
 <img width="335" alt="Steps For the Project " src="https://github.com/user-attachments/assets/bce756a0-514f-402e-9090-02d8630da407" />
+
+
+
+<img width="932" alt="Screenshot 2025-01-03 at 10 54 39 AM" src="https://github.com/user-attachments/assets/81c4e11f-cd56-4aa0-9e10-62b133ce71ef" />
