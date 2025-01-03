@@ -13,3 +13,9 @@
 
 
 <img width="932" alt="Screenshot 2025-01-03 at 10 54 39 AM" src="https://github.com/user-attachments/assets/81c4e11f-cd56-4aa0-9e10-62b133ce71ef" />
+
+
+Blue line Represent the prediction (Y-hat value)
+
+Black Dot is the Actual values The shaded parts represent y_hat lower , y-hat upper
+### That Gives Us prediction for 2021
